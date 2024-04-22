@@ -1,0 +1,20 @@
+.gradient-background3 {
+  background: linear-gradient(300deg, #fdffff, #ffffff, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.navbar-brand img {
+  filter: brightness(0) invert(1) sepia(1) saturate(3) hue-rotate(200deg);
+  height: 55px;
+}
+.dropdown-menu .dropdown-item {
+  color: whitesmoke;
+  background:linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+.nav-link {
+    color: white !important;
+}
+

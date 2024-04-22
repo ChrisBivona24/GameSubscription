@@ -1,0 +1,44 @@
+.gradient-background {
+    background: linear-gradient(300deg, #ebd9c5, #d85454, #ef8172);
+    background-size: cover;
+    animation: gradient-animation 18s ease infinite;
+  }
+  body{
+    background: linear-gradient(300deg, #fdffff, #ffffff, #ef8172);
+    background-size: cover;
+    animation: gradient-animation 18s ease infinite;
+}
+#head{
+    font-style: italic;
+    color: aliceblue;
+}
+#title{
+    color:  #82D4E5 !important;
+}
+
+  .profile-img {
+    height: 100px;
+    border-radius: 50%;
+  }
+  #imageCompany{
+    height: 100px;
+    border-radius: 50%;
+  }
+  #starsCard{
+    background: linear-gradient(300deg, #ffdd02, #ff9100);
+    color:aliceblue;
+  }
+  #PlanetsCard{
+    background: linear-gradient(300deg, #087388, #0c9a11, #270a06);
+    color:rgb(255, 255, 255);
+   
+  }
+
+  #GalCard{
+    background: linear-gradient(300deg, #4907ac, #ff4c68, #270a06);
+    color:aliceblue;
+  }
+  #BundleText1{
+    color:rgb(184, 19, 52);
+  }
+
